@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**vnglst/vnglst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate & entrepreneurial JavaScript developer from the
+Netherlands who likes to push the web beyond it's limits. I specialize
+in modern frontend using React & Svelte and I also feel at home on the
+backend using Node/TypeScript.
 
-Here are some ideas to get you started:
+I'm interested in helping inspiring companies create innovative web 
+apps that users love.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can also find me on [LinkedIn](http://nl.linkedin.com/in/vangilst/) and
+[Twitter](http://www.twitter.com/vnglst).
+
+![](https://github-readme-stats.vercel.app/api?username=vnglst&show_icons=true&count_private=true)
+
+Look at all the Objective-C I apparently wrote (that's probably due to a React Native project).
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vnglst&layout=compact)
