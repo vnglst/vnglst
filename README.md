@@ -13,8 +13,5 @@ You can also find me on [LinkedIn](http://nl.linkedin.com/in/vangilst/) and
 
 ![](https://github-readme-stats.vercel.app/api?username=vnglst&show_icons=true&count_private=true)
 
-Look at all the Objective-C I apparently wrote!
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vnglst&layout=compact)
 
-(that's probably due to a React Native project)
