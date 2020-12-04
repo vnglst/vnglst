@@ -1,4 +1,4 @@
-# Hi there, I'm Koen! 👋🏼
+## Hi there, I'm Koen! 👋🏼
 
 I'm a passionate & entrepreneurial JavaScript developer from the
 Netherlands who likes to push the web beyond it's limits. I specialize
