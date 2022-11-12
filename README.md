@@ -6,8 +6,8 @@ in modern frontend using React & Svelte and I also feel at home on the
 backend using Node/TypeScript. I'm interested in helping inspiring companies create innovative web 
 apps that users love.
 
-You can also find me on [LinkedIn](http://nl.linkedin.com/in/vangilst/) and
-[Twitter](http://www.twitter.com/vnglst).
+You can also find me on [LinkedIn](http://nl.linkedin.com/in/vangilst/) 
+[Twitter](http://www.twitter.com/vnglst) and on <a rel="me" href="https://maakr.social/@koen">Mastodon</a>
 
 ---
 
